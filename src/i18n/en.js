@@ -1,5 +1,5 @@
 export const en = {
     message: {
-        hello: 'Hello {user}'
+        hello: 'Hello {user} ♡'
     }
 }
